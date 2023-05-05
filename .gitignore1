@@ -1,0 +1,74 @@
+# Пользовательский материал
+.идея/**/workspace.xml
+.идея/**/tasks.xml
+.идея/**/usage.statistics.xml
+.idea/**/словари
+.идея/**/полка
+
+# Зависит от пользователя AWS
+.идея/**/aws.xml
+
+# Сгенерированные файлы
+.идея/**/contentModel.xml
+
+# Конфиденциальные файлы или файлы с большим оттоком
+.idea/**/Источники данных/
+.idea/**/Источники данных.идентификаторы
+.идея/**/dataSources.local.xml
+.идея/**/sqlDataSources.xml
+.идея/**/dynamic.xml
+.идея/**/uiDesigner.xml
+.idea/**/dbnavigator.xml
+
+# Gradle
+.idea/**/gradle.xml
+.idea/**/libraries
+
+# Gradle and Maven with auto-import
+# When using Gradle or Maven with auto-import, you should exclude module files,
+# since they will be recreated, and may cause churn.  Uncomment if using
+# auto-import.
+# .idea/artifacts
+# .idea/compiler.xml
+# .idea/jarRepositories.xml
+# .idea/modules.xml
+# .idea/*.iml
+# .idea/модули
+# *.iml
+# *.ipr
+
+# CMake
+*cmake-build-/
+
+# Плагин Mongo Explorer
+.идея/**/mongoSettings.xml
+
+# Формат проекта на основе файлов
+*.iws
+
+# IntelliJ
+вышел/
+
+# плагин mpeltonen/sbt-idea
+.idea_modules/
+
+# Плагин JIRA
+atlassian-ide-plugin.xml
+
+# Плагин для Clojure с курсивом
+.идея/replstate.xml
+
+# Плагин SonarLint
+.idea/sonarlint/
+
+# Плагин Crashlytics (для Android Studio и IntelliJ)
+com_crashlytics_export_strings.xml
+crashlytics.properties
+crashlytics-build.properties
+fabric.properties
+
+# Клиент Rest на основе редактора
+.idea/HttpRequests
+
+# Android studio 3.1+ сериализованный файл кэша
+.idea/кэши/build_file_checksums.ser
